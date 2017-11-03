@@ -1,0 +1,17 @@
+C:\Users\gaojiankuan\AppData\Local\Temporary Projects\S32_PrintSize\bin\Debug\S32_PrintSize.exe.config
+C:\Users\gaojiankuan\AppData\Local\Temporary Projects\S32_PrintSize\bin\Debug\S32_PrintSize.exe
+C:\Users\gaojiankuan\AppData\Local\Temporary Projects\S32_PrintSize\bin\Debug\S32_PrintSize.pdb
+C:\Users\gaojiankuan\AppData\Local\Temporary Projects\S32_PrintSize\obj\Debug\S32_PrintSize.csprojResolveAssemblyReference.cache
+C:\Users\gaojiankuan\AppData\Local\Temporary Projects\S32_PrintSize\obj\Debug\S32_PrintSize.exe
+C:\Users\gaojiankuan\AppData\Local\Temporary Projects\S32_PrintSize\obj\Debug\S32_PrintSize.pdb
+D:\visualstudioTMP\C#\委托异步执行\S32_PrintSize\S32_PrintSize\bin\Debug\S32_PrintSize.exe.config
+D:\visualstudioTMP\C#\委托异步执行\S32_PrintSize\S32_PrintSize\obj\Debug\S32_PrintSize.exe
+D:\visualstudioTMP\C#\委托异步执行\S32_PrintSize\S32_PrintSize\obj\Debug\S32_PrintSize.pdb
+E:\插件制作\S32PrintSize\S32_PrintSize\S32_PrintSize\bin\Debug\S32_PrintSize.exe.config
+E:\插件制作\S32PrintSize\S32_PrintSize\S32_PrintSize\obj\Debug\S32_PrintSize.exe
+E:\插件制作\S32PrintSize\S32_PrintSize\S32_PrintSize\obj\Debug\S32_PrintSize.pdb
+E:\插件制作\S32PrintSize\S32_PrintSize\S32_PrintSize\bin\Debug\S32_PrintSize.exe
+E:\插件制作\S32PrintSize\S32_PrintSize\S32_PrintSize\bin\Debug\S32_PrintSize.pdb
+E:\插件制作\S32PrintSize\S32_PrintSize\S32K144_PrintSize\S32_PrintSize\bin\Debug\S32_PrintSize.exe.config
+E:\插件制作\S32PrintSize\S32_PrintSize\S32K144_PrintSize\S32_PrintSize\obj\Debug\S32_PrintSize.exe
+E:\插件制作\S32PrintSize\S32_PrintSize\S32K144_PrintSize\S32_PrintSize\obj\Debug\S32_PrintSize.pdb
